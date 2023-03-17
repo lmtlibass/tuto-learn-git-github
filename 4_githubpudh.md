@@ -24,4 +24,18 @@ dans la branche main
 
  aprés cela reviens me remercier 😈 
 
- 
+
+
+ # Une petite récap
+
+ - **git add** pour d’ajouter des fichiers dans le stage, qui est une zone intermédiaire dans laquelle stocker les fichiers modifiés.
+
+- **git commit** pour créer une nouvelle version avec les fichiers situés dans l’index.
+
+- **git commit -m** pour  créer une nouvelle version et de préciser le message rattaché au commit.
+
+- **git push** pour envoyer les modifications faites en local vers un dépôt distant. 
+
+
+
+⏩ 

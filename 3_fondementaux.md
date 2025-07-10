@@ -4,7 +4,6 @@
  L'image ci-dessus décris le focntionnement de git 
      il est composé de 2 couches principales:
      - la couche une  qui represente le dépot local,(git)
-          
      - la deuxième couche  qui represente le dépôt distant (github)
 ```
 **fonctionnement**
@@ -33,6 +32,6 @@ vous remarqurez qu'aprés la commande git commit on a ajouter -m et deux guillem
 
 -**Alors essayons d'envoyer notre depôt local en ligne (vers github)**
 
-he bein évidement il faut qu'on prepare le depôt distant pour qu'il puisse recevoir l'offrande 😍 
+bein évidement il faut qu'on prepare le depôt distant pour qu'il puisse recevoir l'offrande 😍 
 
 lets go look the next chapiter 🏃‍♂️ 

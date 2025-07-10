@@ -13,6 +13,8 @@
      (alors met toi en tête que une fois ton code est mis sur github. 
      même si ta machine explose tu pourras récuperer ton travail aprés avoir
      trouvé une autre machine! Super!  banale ? )🤗
+     Il nous permet aussi de partager notre code avec d'autres developpeurs.
+     Il nous permet aussi de collaborer avec d'autres développeurs.
 ```
 
 
